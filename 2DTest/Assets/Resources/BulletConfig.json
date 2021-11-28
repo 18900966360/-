@@ -1,0 +1,29 @@
+{
+    
+        "1001":{
+                "Name": "01型子弹",
+                "Path": "Prefub/Bullet/Bullet1001",
+                "GunEffet": "",
+                "Bullet": "",
+                "Speed": 10,
+                "Atk" :10
+        },
+        "1002": {
+                "Name": "02型子弹",
+                "Path": "",
+                "GunEffet": "",
+                "Bullet": "",
+                "Speed": 20,
+                "Atk" :10
+        },
+        "1003": {
+                "Name": "03型子弹",
+                "Path": "",
+                "GunEffet": "",
+                "Bullet": "",
+                "Speed": 20,
+                "Atk" :10
+        }
+   
+    
+}

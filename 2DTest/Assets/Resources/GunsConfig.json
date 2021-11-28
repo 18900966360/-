@@ -1,0 +1,32 @@
+{
+    "1001":{
+        "Name":"1001型枪械",
+        "BulletName":"1001型子弹",
+        "GunPath":"Prefub/Weapons/weapons1001",
+        "Bulletpath":"Prefub/Bullet/Bullet1001",
+        "Effectpath":"",
+        "Atk": 10 ,
+        "Speed": 20
+    },
+    "1002":{
+        "Name":"1002型枪械",
+        "BulletName":"1002型子弹",
+        "GunPath":"Prefub/Weapons/weapons1002",
+        "Bulletpath":"Prefub/Bullet/Bullet1002",
+        "Effectpath":"",
+        "Atk": 20 ,
+        "Speed": 10
+    },
+    "1003":{
+        "Name":"1003型枪械",
+        "BulletName":"1001型子弹",
+        "GunPath":"",
+        "Bulletpath":"",
+        "Effectpath":"",
+        "Atk": 20 ,
+        "Speed": 10
+    }
+   
+    
+
+}
